@@ -1,0 +1,16 @@
+D:\education\PatikaPratikler\Console_Programalama\bin\Debug\net5.0\Console_Programalama.exe
+D:\education\PatikaPratikler\Console_Programalama\bin\Debug\net5.0\Console_Programalama.deps.json
+D:\education\PatikaPratikler\Console_Programalama\bin\Debug\net5.0\Console_Programalama.runtimeconfig.json
+D:\education\PatikaPratikler\Console_Programalama\bin\Debug\net5.0\Console_Programalama.runtimeconfig.dev.json
+D:\education\PatikaPratikler\Console_Programalama\bin\Debug\net5.0\Console_Programalama.dll
+D:\education\PatikaPratikler\Console_Programalama\bin\Debug\net5.0\Console_Programalama.pdb
+D:\education\PatikaPratikler\Console_Programalama\obj\Debug\net5.0\Console_Programalama.csproj.AssemblyReference.cache
+D:\education\PatikaPratikler\Console_Programalama\obj\Debug\net5.0\Console_Programalama.GeneratedMSBuildEditorConfig.editorconfig
+D:\education\PatikaPratikler\Console_Programalama\obj\Debug\net5.0\Console_Programalama.AssemblyInfoInputs.cache
+D:\education\PatikaPratikler\Console_Programalama\obj\Debug\net5.0\Console_Programalama.AssemblyInfo.cs
+D:\education\PatikaPratikler\Console_Programalama\obj\Debug\net5.0\Console_Programalama.csproj.CoreCompileInputs.cache
+D:\education\PatikaPratikler\Console_Programalama\obj\Debug\net5.0\Console_Programalama.dll
+D:\education\PatikaPratikler\Console_Programalama\obj\Debug\net5.0\refint\Console_Programalama.dll
+D:\education\PatikaPratikler\Console_Programalama\obj\Debug\net5.0\Console_Programalama.pdb
+D:\education\PatikaPratikler\Console_Programalama\obj\Debug\net5.0\Console_Programalama.genruntimeconfig.cache
+D:\education\PatikaPratikler\Console_Programalama\obj\Debug\net5.0\ref\Console_Programalama.dll

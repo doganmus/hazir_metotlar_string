@@ -1,0 +1,16 @@
+D:\education\PatikaPratikler\odev2\bin\Debug\net5.0\odev2.exe
+D:\education\PatikaPratikler\odev2\bin\Debug\net5.0\odev2.deps.json
+D:\education\PatikaPratikler\odev2\bin\Debug\net5.0\odev2.runtimeconfig.json
+D:\education\PatikaPratikler\odev2\bin\Debug\net5.0\odev2.runtimeconfig.dev.json
+D:\education\PatikaPratikler\odev2\bin\Debug\net5.0\odev2.dll
+D:\education\PatikaPratikler\odev2\bin\Debug\net5.0\odev2.pdb
+D:\education\PatikaPratikler\odev2\obj\Debug\net5.0\odev2.csproj.AssemblyReference.cache
+D:\education\PatikaPratikler\odev2\obj\Debug\net5.0\odev2.GeneratedMSBuildEditorConfig.editorconfig
+D:\education\PatikaPratikler\odev2\obj\Debug\net5.0\odev2.AssemblyInfoInputs.cache
+D:\education\PatikaPratikler\odev2\obj\Debug\net5.0\odev2.AssemblyInfo.cs
+D:\education\PatikaPratikler\odev2\obj\Debug\net5.0\odev2.csproj.CoreCompileInputs.cache
+D:\education\PatikaPratikler\odev2\obj\Debug\net5.0\odev2.dll
+D:\education\PatikaPratikler\odev2\obj\Debug\net5.0\refint\odev2.dll
+D:\education\PatikaPratikler\odev2\obj\Debug\net5.0\odev2.pdb
+D:\education\PatikaPratikler\odev2\obj\Debug\net5.0\odev2.genruntimeconfig.cache
+D:\education\PatikaPratikler\odev2\obj\Debug\net5.0\ref\odev2.dll

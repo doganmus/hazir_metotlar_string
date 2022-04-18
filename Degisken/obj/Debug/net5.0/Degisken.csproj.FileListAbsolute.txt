@@ -1,0 +1,16 @@
+D:\education\PatikaPratikler\Degisken\bin\Debug\net5.0\Degisken.exe
+D:\education\PatikaPratikler\Degisken\bin\Debug\net5.0\Degisken.deps.json
+D:\education\PatikaPratikler\Degisken\bin\Debug\net5.0\Degisken.runtimeconfig.json
+D:\education\PatikaPratikler\Degisken\bin\Debug\net5.0\Degisken.runtimeconfig.dev.json
+D:\education\PatikaPratikler\Degisken\bin\Debug\net5.0\Degisken.dll
+D:\education\PatikaPratikler\Degisken\bin\Debug\net5.0\Degisken.pdb
+D:\education\PatikaPratikler\Degisken\obj\Debug\net5.0\Degisken.csproj.AssemblyReference.cache
+D:\education\PatikaPratikler\Degisken\obj\Debug\net5.0\Degisken.GeneratedMSBuildEditorConfig.editorconfig
+D:\education\PatikaPratikler\Degisken\obj\Debug\net5.0\Degisken.AssemblyInfoInputs.cache
+D:\education\PatikaPratikler\Degisken\obj\Debug\net5.0\Degisken.AssemblyInfo.cs
+D:\education\PatikaPratikler\Degisken\obj\Debug\net5.0\Degisken.csproj.CoreCompileInputs.cache
+D:\education\PatikaPratikler\Degisken\obj\Debug\net5.0\Degisken.dll
+D:\education\PatikaPratikler\Degisken\obj\Debug\net5.0\refint\Degisken.dll
+D:\education\PatikaPratikler\Degisken\obj\Debug\net5.0\Degisken.pdb
+D:\education\PatikaPratikler\Degisken\obj\Debug\net5.0\Degisken.genruntimeconfig.cache
+D:\education\PatikaPratikler\Degisken\obj\Debug\net5.0\ref\Degisken.dll
